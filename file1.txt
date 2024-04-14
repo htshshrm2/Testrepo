@@ -1,1 +1,2 @@
 this is the first lin eof file1
+this is the second line of file1
